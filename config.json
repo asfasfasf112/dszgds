@@ -1,0 +1,14 @@
+{
+  "token": "MTI2Nzk0OTMxNDUyMTQzMjA2NA.GJI67C.T2i-E-QDty-gh8lQZ5VCClqa6Q2X5TOg7Z-Cpg",
+  "prefix": "!",
+  "NormalPriceText": "1",
+  "NormalPriceVoice": "1",
+  "NormalPriceAuto": "1",
+  "NormalPriceAlive": "1",
+  "NormalPriceStream": "1",
+  "category": "1267948365715607704",
+  "owner": "397837932364562452",
+  "logBuy": "1267948628279037952",
+  "sendBuy": "1267948628279037952",
+  "webhookErrors": "url here"
+}
